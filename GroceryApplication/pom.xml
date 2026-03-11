@@ -21,7 +21,7 @@
     <scope>test</scope>
 </dependency>
   	<dependency>
-  		<groupId>com.obsqura</groupId>
+  		<groupId>com.obsquara</groupId>
   		<artifactId>GroceryApplication</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
